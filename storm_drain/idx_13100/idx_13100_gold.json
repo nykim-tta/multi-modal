@@ -1,0 +1,44 @@
+{
+  "index": "storm_drain__idx_13100",
+  "category": "storm_drain",
+  "source_folder": "idx_13100",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_13100_01_20240110_d25f506a8be54edaa05242a0b533f68e.jpg",
+        "description": "아스팔트 도로 바닥에 녹슨 금속 빗물받이 덮개 격자가 있으며 격자는 여러 개의 평행한 슬롯과 장식 패턴이 있다. 또한 격자에는 \"I&S Manhole Cover\", \"GCD-450\", \"I&S METAL CO.\"라는 문구가 새겨져 있다. 슬롯을 통해 마른 나뭇잎과 이물질이 보이며, 왼쪽 포장면은 균열이 나 있다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "빗물받이 덮개 격자가 있다",
+      "슬롯이 있다",
+      "장식 패턴이 있다",
+      "나뭇잎이 있다",
+      "이물질이 있다",
+      "포장면이 있다",
+      "도로가 있다"
+    ],
+    "attribute": [
+      "빗물받이 덮개 격자는 녹슬었다",
+      "빗물받이 덮개 격자는 금속 재질이다",
+      "격자는 여러개의 평행한 슬롯과 장식 패턴으로 이루어져 있다"
+    ],
+    "action": [
+      "나뭇잎은 말라있다",
+      "포장면은 균열이 나있다"
+    ],
+    "location": [
+      "아스팔트 도로 바닥에 빗물받이 덮개 격자가 있다"
+    ],
+    "temporal": [
+      "격자에 \"I&S Manhole Cover\"",
+      "\"GCD-450\"",
+      "\"I&S METAL CO.\"라는 문구가 새겨져 있다."
+    ],
+    "text_content": [],
+    "context": []
+  }
+}

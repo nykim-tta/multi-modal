@@ -1,0 +1,39 @@
+{
+  "index": "outdoor_cable__idx_02922",
+  "category": "outdoor_cable",
+  "source_folder": "idx_02922",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_02922_01_20230420_503aafaf940246a68af99334cd2db127.jpg",
+        "description": "차량들이 왼쪽 주차장에 주차되어 있으며 양쪽에 건물들이 있다. 오른쪽 앞쪽에는 주황색 상자가 달린 전신주가 서 있다. 도로 양쪽으로 건물들이 위치한다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "차량들이 있다",
+      "주차장이 있다",
+      "건물들이 있다",
+      "전신주가 서 있다"
+    ],
+    "attribute": [
+      "상자는 주황색이다"
+    ],
+    "action": [
+      "차량들이 주차되어 있다",
+      "전신주에는 상자가 달려 있다"
+    ],
+    "location": [
+      "주차장은 화면 왼쪽에 있다",
+      "차량들은 주차장에 있다",
+      "주차장 양쪽에는 건물들이 있다",
+      "전신주는 화면 오른쪽 앞쪽에 위치한다",
+      "도로 양쪽에는 건물들이 있다"
+    ],
+    "temporal": [],
+    "text_content": [],
+    "context": []
+  }
+}

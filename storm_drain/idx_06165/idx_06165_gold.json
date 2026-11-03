@@ -1,0 +1,41 @@
+{
+  "index": "storm_drain__idx_06165",
+  "category": "storm_drain",
+  "source_folder": "idx_06165",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_06165_01_20240718_1_b3acdd9e6d8846ef9f46910fa709e50d.jpg",
+        "description": "어두운 회색 직사각형 매트가 빗물받이 위에 놓여 있다. 매트 주변 지면에 물이 고여 있다. 오른쪽에 주황색 교통 원뿔이 있고 뒤쪽 타일 단상 위에 흰색 LG 실외기가 있다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "매트가 있다",
+      "빗물받이가 있다",
+      "물이 있다",
+      "교통 원뿔이 있다",
+      "단상이 있다",
+      "실외기가 있다"
+    ],
+    "attribute": [
+      "매트는 어두운 회색 직사각형이다",
+      "교통원뿔은 주황색이다",
+      "실외기는 흰색이다",
+      "매트 주변 지면에 물이 고여있다"
+    ],
+    "action": [
+      "매트는 빗물받이 위에 놓여있다",
+      "오른쪽에 교통 원뿔이 있다",
+      "뒤쪽 단상 위에 실외기가 있다"
+    ],
+    "location": [
+      "실외기에 'LG' 표시가 있다"
+    ],
+    "temporal": [],
+    "text_content": [],
+    "context": []
+  }
+}

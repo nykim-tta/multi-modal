@@ -1,0 +1,38 @@
+{
+  "index": "outdoor_cable__idx_06675",
+  "category": "outdoor_cable",
+  "source_folder": "idx_06675",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_06675_02_20240126_91a0de24413f48178e0a7163f59b7db2.jpg",
+        "description": "붉은색 직사각형 보도블록이 깔린 보행로 바닥이다. 보도블록 일부가 파손되어 틈새에 흙과 이물질이 보인다. 오른쪽에는으로 콘크리트 전신주가 세워져 있다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "보행로가 있다",
+      "보도블록이 있다",
+      "전신주가 있다"
+    ],
+    "attribute": [
+      "보도블록은 붉은색이다",
+      "보도블록은 직사각형 형태이다",
+      "전신주 자재는 콘크리트이다"
+    ],
+    "action": [
+      "보행로 바닥에는 보도블록이 깔려 있다",
+      "보도블록 틈새에 흙이 있다",
+      "보도블록 틈새에 이물질이 있다",
+      "보도블록 일부가 파손되어 있다"
+    ],
+    "location": [
+      "전신주는 보도블록 오른쪽에 있다"
+    ],
+    "temporal": [],
+    "text_content": [],
+    "context": []
+  }
+}

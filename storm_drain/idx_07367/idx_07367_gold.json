@@ -1,0 +1,40 @@
+{
+  "index": "storm_drain__idx_07367",
+  "category": "storm_drain",
+  "source_folder": "idx_07367",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_07367_01_20240620_2_6325a73c91444bbdaa068cb8f467d60b.jpg",
+        "description": "녹색 식물과 나무가 울창한 사이로 흙길 산책로가 나 있다. 흙길은 왼쪽 방향으로 이어지며 배경에도 녹색 나무와 풀이 가득하다. 녹색 풀 사이로 나뭇조각이나 마른 풀이 관찰된다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "식물이 있다",
+      "나무가 있다",
+      "흙길 산책로가 있다",
+      "풀이 있다",
+      "나뭇조각이 있다"
+    ],
+    "attribute": [
+      "식물은 녹색이다",
+      "풀은 녹색이다",
+      "풀이 말라있다"
+    ],
+    "action": [
+      "식물과 나무가 울창하다",
+      "나무와 풀이 가득하다",
+      "흙길은 왼쪽 방향으로 이어진다",
+      "녹색 풀 사이로 나뭇조각이나 마른 풀이 관찰된다"
+    ],
+    "location": [
+      "배경에 나무와 풀이 있다"
+    ],
+    "temporal": [],
+    "text_content": [],
+    "context": []
+  }
+}

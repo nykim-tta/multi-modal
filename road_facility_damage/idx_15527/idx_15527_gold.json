@@ -1,0 +1,42 @@
+{
+  "index": "road_facility_damage__idx_15527",
+  "category": "road_facility_damage",
+  "source_folder": "idx_15527",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_15527_02_20241130_2_1ab96798f9fe4c58989f6c5b289c6ddc.jpg",
+        "description": "도로 위에 흰색 선으로 표시된 넓은 횡단보도가 보인다. 횡단보도 건너편에는 SK 로고가 있는 주유소와 뒤쪽의 건물들이 위치한다. 앞쪽 보도는 노란색 점자블록이 배치되어 있다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "도로가 있다",
+      "횡단보도가 있다",
+      "주유소가 있다",
+      "건물들이 있다",
+      "보도가 있다",
+      "점자블록이 있다"
+    ],
+    "attribute": [
+      "선은 흰색이다",
+      "점자블록은 노란색이다"
+    ],
+    "action": [
+      "횡단보도는 선으로 표시되어 있다"
+    ],
+    "location": [
+      "횡단보도는 도로 위에 있다",
+      "횡단보도 건너편에는 주유소가 있다",
+      "건물들은 주유소 뒤에 있다",
+      "보도 앞쪽에는 점자블록이 있다"
+    ],
+    "temporal": [],
+    "text_content": [
+      "주유소에는 'SK' 로고가 적혀 있다"
+    ],
+    "context": []
+  }
+}

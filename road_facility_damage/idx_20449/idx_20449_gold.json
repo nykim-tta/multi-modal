@@ -1,0 +1,40 @@
+{
+  "index": "road_facility_damage__idx_20449",
+  "category": "road_facility_damage",
+  "source_folder": "idx_20449",
+  "image_info": {
+    "image_report": [
+      {
+        "image_index": 0,
+        "image_path": "idx_20449_01_20241129_1_d23a58e9d9804304a3410f59e86305b1.jpg",
+        "description": "파란색에 노란색 줄무늬가 있는 기둥이 보도에 가로로 놓여 있습니다. 보도는 붉은 벽돌 모양과 회색 패턴의 블록으로 구성되어 있으며 회색 연석 위에 있습니다."
+      }
+    ]
+  },
+  "gold_claims": {
+    "object_identity": [
+      "기둥이 있다",
+      "보도가 있다",
+      "연석이 있다"
+    ],
+    "attribute": [
+      "기둥은 파란색과 노란색이다",
+      "기둥은 줄무늬가 그려져 있다",
+      "벽돌은 붉은 색이다",
+      "블록은 회색이다",
+      "연석은 회색이다"
+    ],
+    "action": [
+      "기둥은 가로로 놓여 있다",
+      "보도는 벽돌로 구성되어 있다",
+      "보도는 블록으로 구성되어 있다"
+    ],
+    "location": [
+      "기둥은 보도에 있다",
+      "보도는 연석 위에 있다"
+    ],
+    "temporal": [],
+    "text_content": [],
+    "context": []
+  }
+}
